@@ -7,3 +7,6 @@ Each lesson in the playlist has it's own branch in this repository. To see the c
 **important** - if you are cloning the repo to your desktop, you will need to perform a packages get / pub get to install any dependencies that the project may have at that point of the course.
 
 **Link to playlist on YouTube**
+
+Layout Cheatsheet
+https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
